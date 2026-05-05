@@ -1,0 +1,32 @@
+{
+  "mcpServers": {
+    "powerbi-modeling-mcp": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@microsoft/powerbi-modeling-mcp@latest",
+        "--start"
+      ],
+      "env": {},
+      "disabled": false,
+      "autoApprove": [
+        "connection_operations",
+        "table_operations",
+        "measure_operations",
+        "column_operations",
+        "dax_query_operations",
+        "named_expression_operations",
+        "partition_operations",
+        "relationship_operations",
+        "relationship_operations",
+        "model_operations",
+        "database_operations",
+        "trace_operations",
+        "transaction_operations"
+      ]
+    }
+  },
+  "powers": {
+    "mcpServers": {}
+  }
+}
