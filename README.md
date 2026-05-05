@@ -154,6 +154,8 @@ However, there are additional tools that can be integrated to bring conversation
 
 ---
 
+## Disclaimer: Agentic work requires constant tuning and the LLM doesn't always behave — please keep a backup of your PBI and review all outputs before use. I take no responsibility if the AI decides to go rogue on your Power BI file. 😅
+
 ## 🔗 References
 
 | Resource | Link |
